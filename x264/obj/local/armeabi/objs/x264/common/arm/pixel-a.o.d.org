@@ -1,0 +1,8 @@
+F:/cygwin64/videojni/library/x264/obj/local/armeabi/objs/x264/common/arm/pixel-a.o: \
+ F:/cygwin64/videojni/library/x264/jni/common/arm/pixel-a.S \
+ F:/cygwin64/videojni/library/x264/jni/common/arm/asm.S \
+ F:/cygwin64/videojni/library/x264/jni/config.h
+
+F:/cygwin64/videojni/library/x264/jni/common/arm/asm.S:
+
+F:/cygwin64/videojni/library/x264/jni/config.h:
